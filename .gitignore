@@ -49,3 +49,8 @@ result
 
 .devcontainer.json
 .pre-commit-config.yaml
+
+
+# Added by cargo
+
+/target
